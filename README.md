@@ -3,7 +3,7 @@
 This is a PyTorch implementation of [Bi-directional Contrastive Learning for Domain adaptive Semantic Segmentation].  
 
 <figure>
-    <img src="./paper_images/overview.png" alt="DASS">
+    <img src="/paper_images/overview.png" alt="DASS">
 </figure>
 
 ### Requirements
